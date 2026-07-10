@@ -1,0 +1,388 @@
+{
+"platforms": [
+{
+"name": "Instagram",
+"intent": "social",
+"metaAngle": "run multiple accounts without shadowbans",
+"descTail": "rotate mobile IPs to grow Instagram accounts safely, dodging action blocks and verification loops."
+},
+{
+"name": "TikTok",
+"intent": "social",
+"metaAngle": "manage creator accounts across regions",
+"descTail": "test For You feeds by country, warm fresh profiles and sidestep device-linked bans."
+},
+{
+"name": "Facebook",
+"intent": "social",
+"metaAngle": "protect ad accounts, scale Business Manager",
+"descTail": "keep ad accounts warm with clean residential IPs and avoid checkpoint lockouts entirely."
+},
+{
+"name": "Twitter (X)",
+"intent": "social",
+"metaAngle": "automate posting and scrape the timeline",
+"descTail": "pull real-time X data and run automation without rate-limit walls or account suspensions."
+},
+{
+"name": "YouTube",
+"intent": "streaming",
+"metaAngle": "unlock region videos, scrape without throttling",
+"descTail": "watch geo-blocked uploads and collect comment and channel data without hitting IP throttles."
+},
+{
+"name": "Reddit",
+"intent": "social",
+"metaAngle": "age accounts and harvest subreddit data",
+"descTail": "manage several Reddit identities and gather threads at scale without tripping spam filters."
+},
+{
+"name": "LinkedIn",
+"intent": "social",
+"metaAngle": "scrape profiles and prospect without flags",
+"descTail": "collect leads and run outreach on LinkedIn while dodging login walls and account bans."
+},
+{
+"name": "Pinterest",
+"intent": "social",
+"metaAngle": "scale pins across niche accounts",
+"descTail": "manage many Pinterest boards and scrape trending pins without hitting account throttling."
+},
+{
+"name": "Snapchat",
+"intent": "social",
+"metaAngle": "operate multiple Snap accounts cleanly",
+"descTail": "register and run several Snapchat profiles behind mobile IPs, avoiding device-level bans."
+},
+{
+"name": "Amazon",
+"intent": "commerce",
+"metaAngle": "track prices and win the Buy Box",
+"descTail": "scrape listings, monitor competitor pricing and check catalogues across every Amazon marketplace worldwide."
+},
+{
+"name": "eBay",
+"intent": "commerce",
+"metaAngle": "monitor listings and manage seller accounts",
+"descTail": "watch sold prices, run multiple stores and scrape eBay without search-result blocks."
+},
+{
+"name": "Walmart",
+"intent": "commerce",
+"metaAngle": "scrape catalogue and track live stock",
+"descTail": "pull Walmart pricing and inventory data at scale without CAPTCHAs or IP bans."
+},
+{
+"name": "AliExpress",
+"intent": "commerce",
+"metaAngle": "compare supplier pricing across regions",
+"descTail": "scrape AliExpress product data and check localised prices for dropshipping and product sourcing."
+},
+{
+"name": "Shopify",
+"intent": "commerce",
+"metaAngle": "monitor storefronts and automate checkout",
+"descTail": "scrape Shopify stores, track rival catalogues and run checkout automation without blocks."
+},
+{
+"name": "Etsy",
+"intent": "commerce",
+"metaAngle": "research niches and manage several shops",
+"descTail": "scrape Etsy listings, analyse craft trends and run multiple seller accounts safely."
+},
+{
+"name": "Google",
+"intent": "search",
+"metaAngle": "scrape SERPs and track rankings",
+"descTail": "collect Google search results at scale and monitor rankings from any target location."
+},
+{
+"name": "Bing",
+"intent": "search",
+"metaAngle": "harvest SERPs and localise results",
+"descTail": "scrape Bing results by region and feed rank tracking without query throttling."
+},
+{
+"name": "Nike",
+"intent": "commerce",
+"metaAngle": "cop limited drops on SNKRS",
+"descTail": "run multiple entries on Nike releases with fast residential IPs to beat rival bots."
+},
+{
+"name": "Adidas",
+"intent": "commerce",
+"metaAngle": "beat queues on Confirmed and Yeezy drops",
+"descTail": "secure limited Adidas releases with many clean IPs and dodge queue bans."
+},
+{
+"name": "Supreme",
+"intent": "commerce",
+"metaAngle": "checkout weekly drops before sellout",
+"descTail": "run bots across Supreme drops with rotating proxies to grab hyped items fast."
+},
+{
+"name": "Footlocker",
+"intent": "commerce",
+"metaAngle": "raffle-enter and cop launches",
+"descTail": "submit multiple Footlocker raffle entries behind residential IPs to raise your win odds."
+},
+{
+"name": "StockX",
+"intent": "commerce",
+"metaAngle": "track resale prices and market data",
+"descTail": "scrape StockX bids, asks and sales history to price your flips accurately."
+},
+{
+"name": "Ticketmaster",
+"intent": "other",
+"metaAngle": "grab event tickets the instant they drop",
+"descTail": "queue for high-demand tickets with rotating IPs and dodge Ticketmaster's bot detection."
+},
+{
+"name": "StubHub",
+"intent": "other",
+"metaAngle": "monitor resale inventory and pricing",
+"descTail": "scrape StubHub listings and price movements to buy low and resell smart."
+},
+{
+"name": "Best Buy",
+"intent": "commerce",
+"metaAngle": "cop restocks on GPUs and consoles",
+"descTail": "catch Best Buy restocks with fast proxies and check stock across zip codes."
+},
+{
+"name": "Target",
+"intent": "commerce",
+"metaAngle": "track stock and cop limited releases",
+"descTail": "monitor Target inventory by store and grab hyped drops without IP bans."
+},
+{
+"name": "Craigslist",
+"intent": "commerce",
+"metaAngle": "post ads across cities without ghosting",
+"descTail": "run multiple Craigslist postings by region and scrape listings without flags or bans."
+},
+{
+"name": "Spotify",
+"intent": "streaming",
+"metaAngle": "manage playlists and check regional catalogues",
+"descTail": "access Spotify libraries by country and run promotion tools without account throttling."
+},
+{
+"name": "Netflix",
+"intent": "streaming",
+"metaAngle": "unblock regional libraries, stream without buffering",
+"descTail": "switch Netflix catalogues by country and stream on residential IPs that dodge VPN blocks."
+},
+{
+"name": "Twitch",
+"intent": "streaming",
+"metaAngle": "manage channels and view without throttling",
+"descTail": "run multiple Twitch accounts and stream geo-locked content without IP-based viewing limits."
+},
+{
+"name": "Discord",
+"intent": "social",
+"metaAngle": "run bots and multiple servers safely",
+"descTail": "operate many Discord accounts and bots behind clean IPs to avoid flagging."
+},
+{
+"name": "Telegram",
+"intent": "social",
+"metaAngle": "manage bulk accounts and channels",
+"descTail": "run multiple Telegram accounts and automation without phone-linked bans or IP flags."
+},
+{
+"name": "Booking.com",
+"intent": "travel",
+"metaAngle": "scrape rates and compare by geography",
+"descTail": "collect Booking.com hotel prices across regions to spot the cheapest local rates."
+},
+{
+"name": "Airbnb",
+"intent": "travel",
+"metaAngle": "scrape listings and track host pricing",
+"descTail": "harvest Airbnb availability and nightly rates by market without search-result blocks."
+},
+{
+"name": "Expedia",
+"intent": "travel",
+"metaAngle": "compare fares across localised sites",
+"descTail": "scrape Expedia flight and hotel prices by region to find hidden fare gaps."
+},
+{
+"name": "Indeed",
+"intent": "jobs",
+"metaAngle": "scrape postings and aggregate listings",
+"descTail": "collect Indeed job data at scale across locations without CAPTCHAs or rate limits."
+},
+{
+"name": "Glassdoor",
+"intent": "jobs",
+"metaAngle": "harvest reviews and salary data",
+"descTail": "scrape Glassdoor company reviews and pay figures without login walls or IP blocks."
+},
+{
+"name": "Yelp",
+"intent": "other",
+"metaAngle": "scrape reviews and local business data",
+"descTail": "collect Yelp listings and ratings across cities without tripping aggressive rate limits."
+},
+{
+"name": "Zillow",
+"intent": "realestate",
+"metaAngle": "scrape listings and track market prices",
+"descTail": "harvest Zillow property data and price history by area without IP bans."
+},
+{
+"name": "Walmart Marketplace",
+"intent": "commerce",
+"metaAngle": "manage seller accounts and monitor rivals",
+"descTail": "run multiple Walmart Marketplace stores and scrape competitor pricing without triggering blocks."
+},
+{
+"name": "Poshmark",
+"intent": "commerce",
+"metaAngle": "run closets and automate sharing",
+"descTail": "manage several Poshmark accounts and automate shares without device-linked flags or bans."
+},
+{
+"name": "Mercari",
+"intent": "commerce",
+"metaAngle": "list across accounts and track sales",
+"descTail": "operate multiple Mercari profiles and scrape sold prices without IP restrictions."
+},
+{
+"name": "Depop",
+"intent": "commerce",
+"metaAngle": "scale selling accounts and read trends",
+"descTail": "run several Depop shops and scrape trending listings without account throttling."
+},
+{
+"name": "GOAT",
+"intent": "commerce",
+"metaAngle": "monitor sneaker resale pricing",
+"descTail": "scrape GOAT listings and sales data to price flips and spot arbitrage."
+},
+{
+"name": "Grailed",
+"intent": "commerce",
+"metaAngle": "track menswear resale and cop deals",
+"descTail": "scrape Grailed listings and price drops to snap up graded designer pieces."
+},
+{
+"name": "Vinted",
+"intent": "commerce",
+"metaAngle": "run selling accounts across markets",
+"descTail": "manage Vinted profiles by country and scrape listings without bans or flags."
+},
+{
+"name": "Temu",
+"intent": "commerce",
+"metaAngle": "scrape pricing and check localised deals",
+"descTail": "harvest Temu product data and regional prices for sourcing without search-result blocks."
+},
+{
+"name": "Shein",
+"intent": "commerce",
+"metaAngle": "track catalogue and monitor fashion trends",
+"descTail": "scrape Shein listings and localised pricing at scale without CAPTCHAs or bans."
+},
+{
+"name": "MercadoLibre",
+"intent": "commerce",
+"metaAngle": "monitor Latin American marketplace pricing",
+"descTail": "scrape MercadoLibre listings country by country to track prices and manage stores."
+},
+{
+"name": "Flipkart",
+"intent": "commerce",
+"metaAngle": "scrape Indian catalogue and track deals",
+"descTail": "collect Flipkart pricing and stock data during sale events without IP throttling."
+},
+{
+"name": "Lazada",
+"intent": "commerce",
+"metaAngle": "monitor Southeast Asian pricing",
+"descTail": "scrape Lazada listings across markets to compare prices and manage seller accounts."
+},
+{
+"name": "Shopee",
+"intent": "commerce",
+"metaAngle": "track regional catalogues and rivals",
+"descTail": "harvest Shopee product and price data by country without triggering bot walls."
+},
+{
+"name": "OnlyFans",
+"intent": "social",
+"metaAngle": "manage creator accounts and traffic safely",
+"descTail": "run OnlyFans profiles and promotion behind clean IPs, avoiding regional and account blocks."
+},
+{
+"name": "WeChat",
+"intent": "social",
+"metaAngle": "operate multiple accounts from abroad",
+"descTail": "run WeChat profiles outside China with stable IPs and dodge registration blocks."
+},
+{
+"name": "Weibo",
+"intent": "social",
+"metaAngle": "scrape posts and run China accounts",
+"descTail": "collect Weibo data and manage accounts with localised IPs without regional throttling."
+},
+{
+"name": "VK",
+"intent": "social",
+"metaAngle": "manage accounts and scrape Russian social data",
+"descTail": "run multiple VK profiles and harvest posts with regional IPs, avoiding bans."
+},
+{
+"name": "Naver",
+"intent": "search",
+"metaAngle": "scrape Korean SERPs and localise results",
+"descTail": "collect Naver search and shopping data with Korean IPs without query blocks."
+},
+{
+"name": "Yandex",
+"intent": "search",
+"metaAngle": "harvest Russian SERPs and rank track",
+"descTail": "scrape Yandex results by region and feed rank tracking without query throttling."
+},
+{
+"name": "Baidu",
+"intent": "search",
+"metaAngle": "scrape Chinese SERPs from anywhere",
+"descTail": "collect Baidu search data with China IPs and track rankings without blocks."
+},
+{
+"name": "Douyin",
+"intent": "social",
+"metaAngle": "manage China TikTok accounts, scrape trends",
+"descTail": "run Douyin profiles with local IPs and harvest trending content without bans."
+},
+{
+"name": "Coinbase",
+"intent": "crypto",
+"metaAngle": "access markets and manage accounts by region",
+"descTail": "reach Coinbase from restricted regions and run trading tools without IP flags."
+},
+{
+"name": "Binance",
+"intent": "crypto",
+"metaAngle": "trade across regions and run bots",
+"descTail": "access Binance markets by geography and run trading automation without rate limits."
+},
+{
+"name": "Upwork",
+"intent": "jobs",
+"metaAngle": "manage profiles and scrape gigs",
+"descTail": "run Upwork accounts from any region and collect job listings without login blocks."
+},
+{
+"name": "Fiverr",
+"intent": "jobs",
+"metaAngle": "run seller accounts and research niches",
+"descTail": "manage multiple Fiverr profiles and scrape gig data without IP-based restrictions."
+}
+]
+}

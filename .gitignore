@@ -1,0 +1,8 @@
+# Claude session state
+.remember/
+.claude/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store

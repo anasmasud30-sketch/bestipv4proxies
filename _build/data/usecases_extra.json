@@ -1,0 +1,88 @@
+{
+"usecases": [
+{
+"name": "Web Testing",
+"slug": "web-testing",
+"audience": "QA engineers and web developers",
+"goal": "Load and functionally test websites from multiple regions and IPs to confirm geo-routing, CDN behaviour and rendering work correctly for every user, not just those on the office network."
+},
+{
+"name": "Retail Arbitrage",
+"slug": "retail-arbitrage",
+"audience": "Resellers and marketplace sellers",
+"goal": "Check regional stock, pricing and clearance deals across retailers without triggering purchase limits or blocks, so profitable buy-low sell-high opportunities can be sourced at scale."
+},
+{
+"name": "Competitor Analysis",
+"slug": "competitor-analysis",
+"audience": "Product managers and growth marketers",
+"goal": "Gather rivals' public pricing, positioning, promotions and feature pages consistently and anonymously, avoiding the tailored or cloaked content sites serve to known corporate IPs."
+},
+{
+"name": "News Aggregation",
+"slug": "news-aggregation",
+"audience": "Publishers and media monitoring teams",
+"goal": "Pull articles and headlines continuously from paywall-light and region-locked news outlets worldwide without rate-limit bans, keeping feeds fresh and geographically complete."
+},
+{
+"name": "Sentiment Analysis",
+"slug": "sentiment-analysis",
+"audience": "Data scientists and PR teams",
+"goal": "Collect large, geographically diverse volumes of forum, review and social posts for NLP models without hitting per-IP throttling that skews or truncates the dataset."
+},
+{
+"name": "Crypto Trading Bots",
+"slug": "crypto-trading-bots",
+"audience": "Algorithmic and quantitative crypto traders",
+"goal": "Distribute API and order-book requests across many IPs to stay under exchange rate limits, reduce latency-based blocks and keep automated strategies running uninterrupted."
+},
+{
+"name": "NFT Minting",
+"slug": "nft-minting",
+"audience": "Digital collectors and mint-day participants",
+"goal": "Spread mint requests across multiple IPs to compete fairly for limited drops without a single address being wallet-rate-limited or flagged as bot traffic."
+},
+{
+"name": "Betting & Odds Aggregation",
+"slug": "betting-odds-aggregation",
+"audience": "Arbitrage bettors and odds-comparison sites",
+"goal": "Scrape live odds from bookmakers across jurisdictions in real time to spot value and arbitrage lines, without geo-blocks or per-IP request caps interrupting the feed."
+},
+{
+"name": "Coupon Aggregation",
+"slug": "coupon-aggregation",
+"audience": "Deals sites and cashback platforms",
+"goal": "Harvest and validate discount codes and promotions across regional storefronts at scale, capturing localised offers that only appear to in-country visitors."
+},
+{
+"name": "Job Posting Automation",
+"slug": "job-posting-automation",
+"audience": "Recruiters and staffing agencies",
+"goal": "Publish and refresh listings across many job boards and regional portals from stable IPs, avoiding the duplicate-detection and rate blocks that stall high-volume posting."
+},
+{
+"name": "API Access Management",
+"slug": "api-access-management",
+"audience": "Developers and integration engineers",
+"goal": "Route high-volume calls to third-party APIs through rotating IPs to stay within per-IP quotas and maintain reliable throughput on public or partner endpoints."
+},
+{
+"name": "Threat Intelligence",
+"slug": "threat-intelligence",
+"audience": "Security analysts and SOC teams",
+"goal": "Investigate malicious domains, phishing kits and dark-corner sites from disposable, untraceable IPs so probes cannot be linked back to the organisation or serve decoy content."
+},
+{
+"name": "Domain Research",
+"slug": "domain-research",
+"audience": "Investors, brand teams and SEO specialists",
+"goal": "Bulk-check WHOIS, DNS, availability and historical snapshots across many registrars and lookup tools without tripping the query limits that block a single research IP."
+},
+{
+"name": "Email Verification",
+"slug": "email-verification",
+"audience": "Email marketers and deliverability teams",
+"goal": "Validate large mailing lists via distributed SMTP and verification checks without a single IP being greylisted or blacklisted, protecting sender reputation and accuracy."
+}
+]
+}

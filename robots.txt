@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bestipv4proxies.com/sitemap.xml

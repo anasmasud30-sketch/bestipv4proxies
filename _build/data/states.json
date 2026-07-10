@@ -1,0 +1,259 @@
+{
+"states": [
+{
+"state": "Alabama",
+"abbr": "AL",
+"largest_city": "Huntsville"
+},
+{
+"state": "Alaska",
+"abbr": "AK",
+"largest_city": "Anchorage"
+},
+{
+"state": "Arizona",
+"abbr": "AZ",
+"largest_city": "Phoenix"
+},
+{
+"state": "Arkansas",
+"abbr": "AR",
+"largest_city": "Little Rock"
+},
+{
+"state": "California",
+"abbr": "CA",
+"largest_city": "Los Angeles"
+},
+{
+"state": "Colorado",
+"abbr": "CO",
+"largest_city": "Denver"
+},
+{
+"state": "Connecticut",
+"abbr": "CT",
+"largest_city": "Bridgeport"
+},
+{
+"state": "Delaware",
+"abbr": "DE",
+"largest_city": "Wilmington"
+},
+{
+"state": "Florida",
+"abbr": "FL",
+"largest_city": "Jacksonville"
+},
+{
+"state": "Georgia",
+"abbr": "GA",
+"largest_city": "Atlanta"
+},
+{
+"state": "Hawaii",
+"abbr": "HI",
+"largest_city": "Honolulu"
+},
+{
+"state": "Idaho",
+"abbr": "ID",
+"largest_city": "Boise"
+},
+{
+"state": "Illinois",
+"abbr": "IL",
+"largest_city": "Chicago"
+},
+{
+"state": "Indiana",
+"abbr": "IN",
+"largest_city": "Indianapolis"
+},
+{
+"state": "Iowa",
+"abbr": "IA",
+"largest_city": "Des Moines"
+},
+{
+"state": "Kansas",
+"abbr": "KS",
+"largest_city": "Wichita"
+},
+{
+"state": "Kentucky",
+"abbr": "KY",
+"largest_city": "Louisville"
+},
+{
+"state": "Louisiana",
+"abbr": "LA",
+"largest_city": "New Orleans"
+},
+{
+"state": "Maine",
+"abbr": "ME",
+"largest_city": "Portland"
+},
+{
+"state": "Maryland",
+"abbr": "MD",
+"largest_city": "Baltimore"
+},
+{
+"state": "Massachusetts",
+"abbr": "MA",
+"largest_city": "Boston"
+},
+{
+"state": "Michigan",
+"abbr": "MI",
+"largest_city": "Detroit"
+},
+{
+"state": "Minnesota",
+"abbr": "MN",
+"largest_city": "Minneapolis"
+},
+{
+"state": "Mississippi",
+"abbr": "MS",
+"largest_city": "Jackson"
+},
+{
+"state": "Missouri",
+"abbr": "MO",
+"largest_city": "Kansas City"
+},
+{
+"state": "Montana",
+"abbr": "MT",
+"largest_city": "Billings"
+},
+{
+"state": "Nebraska",
+"abbr": "NE",
+"largest_city": "Omaha"
+},
+{
+"state": "Nevada",
+"abbr": "NV",
+"largest_city": "Las Vegas"
+},
+{
+"state": "New Hampshire",
+"abbr": "NH",
+"largest_city": "Manchester"
+},
+{
+"state": "New Jersey",
+"abbr": "NJ",
+"largest_city": "Newark"
+},
+{
+"state": "New Mexico",
+"abbr": "NM",
+"largest_city": "Albuquerque"
+},
+{
+"state": "New York",
+"abbr": "NY",
+"largest_city": "New York City"
+},
+{
+"state": "North Carolina",
+"abbr": "NC",
+"largest_city": "Charlotte"
+},
+{
+"state": "North Dakota",
+"abbr": "ND",
+"largest_city": "Fargo"
+},
+{
+"state": "Ohio",
+"abbr": "OH",
+"largest_city": "Columbus"
+},
+{
+"state": "Oklahoma",
+"abbr": "OK",
+"largest_city": "Oklahoma City"
+},
+{
+"state": "Oregon",
+"abbr": "OR",
+"largest_city": "Portland"
+},
+{
+"state": "Pennsylvania",
+"abbr": "PA",
+"largest_city": "Philadelphia"
+},
+{
+"state": "Rhode Island",
+"abbr": "RI",
+"largest_city": "Providence"
+},
+{
+"state": "South Carolina",
+"abbr": "SC",
+"largest_city": "Charleston"
+},
+{
+"state": "South Dakota",
+"abbr": "SD",
+"largest_city": "Sioux Falls"
+},
+{
+"state": "Tennessee",
+"abbr": "TN",
+"largest_city": "Nashville"
+},
+{
+"state": "Texas",
+"abbr": "TX",
+"largest_city": "Houston"
+},
+{
+"state": "Utah",
+"abbr": "UT",
+"largest_city": "Salt Lake City"
+},
+{
+"state": "Vermont",
+"abbr": "VT",
+"largest_city": "Burlington"
+},
+{
+"state": "Virginia",
+"abbr": "VA",
+"largest_city": "Virginia Beach"
+},
+{
+"state": "Washington",
+"abbr": "WA",
+"largest_city": "Seattle"
+},
+{
+"state": "West Virginia",
+"abbr": "WV",
+"largest_city": "Charleston"
+},
+{
+"state": "Wisconsin",
+"abbr": "WI",
+"largest_city": "Milwaukee"
+},
+{
+"state": "Wyoming",
+"abbr": "WY",
+"largest_city": "Cheyenne"
+},
+{
+"state": "District of Columbia",
+"abbr": "DC",
+"largest_city": "Washington"
+}
+]
+}

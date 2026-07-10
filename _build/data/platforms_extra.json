@@ -1,0 +1,124 @@
+{
+"platforms": [
+{
+"name": "Poshmark",
+"kind": "social resale marketplace",
+"action": "list inventory across multiple seller accounts and auto-share closet items"
+},
+{
+"name": "Mercari",
+"kind": "peer-to-peer resale marketplace",
+"action": "manage several selling profiles and monitor competitor pricing"
+},
+{
+"name": "Depop",
+"kind": "fashion resale marketplace",
+"action": "run multiple shops and track trending listings without linked bans"
+},
+{
+"name": "Vinted",
+"kind": "second-hand fashion marketplace",
+"action": "operate region-locked accounts and scrape sold-item data"
+},
+{
+"name": "GOAT",
+"kind": "sneaker resale marketplace",
+"action": "secure limited sneaker releases and check authenticated buy prices"
+},
+{
+"name": "Grailed",
+"kind": "menswear resale marketplace",
+"action": "monitor high-demand drops and manage buyer or seller accounts"
+},
+{
+"name": "Temu",
+"kind": "budget shopping marketplace",
+"action": "compare regional pricing and gather product listing data at scale"
+},
+{
+"name": "Shein",
+"kind": "fast-fashion retailer",
+"action": "track price and stock changes across country storefronts"
+},
+{
+"name": "MercadoLibre",
+"kind": "Latin American marketplace",
+"action": "scrape localised listings and run multiple seller accounts"
+},
+{
+"name": "Flipkart",
+"kind": "Indian e-commerce marketplace",
+"action": "monitor deals and secure limited flash-sale stock"
+},
+{
+"name": "Shopee",
+"kind": "Southeast Asian marketplace",
+"action": "gather pricing data and manage geo-targeted storefronts"
+},
+{
+"name": "Lazada",
+"kind": "Southeast Asian marketplace",
+"action": "track competitor listings across country-specific sites"
+},
+{
+"name": "OnlyFans",
+"kind": "creator subscription platform",
+"action": "manage creator or marketing accounts from consistent local IPs"
+},
+{
+"name": "Weibo",
+"kind": "Chinese social network",
+"action": "manage accounts and collect public trend data behind regional walls"
+},
+{
+"name": "VK",
+"kind": "Russian social network",
+"action": "run multiple profiles and access region-restricted content"
+},
+{
+"name": "Naver",
+"kind": "Korean search and portal",
+"action": "scrape localised search results and shopping listings"
+},
+{
+"name": "Yandex",
+"kind": "Russian search engine",
+"action": "gather rank data and run localised search queries"
+},
+{
+"name": "Baidu",
+"kind": "Chinese search engine",
+"action": "scrape China-specific search rankings and results"
+},
+{
+"name": "Douyin",
+"kind": "Chinese short-video app",
+"action": "manage accounts and collect view or trend data by region"
+},
+{
+"name": "Google Maps",
+"kind": "local business directory",
+"action": "scrape business listings, reviews and local pack rankings"
+},
+{
+"name": "Google Shopping",
+"kind": "product comparison engine",
+"action": "track product prices and merchant listings across markets"
+},
+{
+"name": "Realtor.com",
+"kind": "property listings portal",
+"action": "scrape housing listings and monitor local market data"
+},
+{
+"name": "Coinbase",
+"kind": "crypto exchange",
+"action": "access accounts and market data from stable residential IPs"
+},
+{
+"name": "Upwork",
+"kind": "freelance marketplace",
+"action": "manage profiles and scrape job or rate data by location"
+}
+]
+}

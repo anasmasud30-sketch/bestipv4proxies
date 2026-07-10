@@ -1,0 +1,892 @@
+{
+"countries": [
+{
+"name": "United Kingdom",
+"demonym": "British",
+"capital": "London",
+"region": "Europe"
+},
+{
+"name": "Ireland",
+"demonym": "Irish",
+"capital": "Dublin",
+"region": "Europe"
+},
+{
+"name": "France",
+"demonym": "French",
+"capital": "Paris",
+"region": "Europe"
+},
+{
+"name": "Germany",
+"demonym": "German",
+"capital": "Berlin",
+"region": "Europe"
+},
+{
+"name": "Spain",
+"demonym": "Spanish",
+"capital": "Madrid",
+"region": "Europe"
+},
+{
+"name": "Portugal",
+"demonym": "Portuguese",
+"capital": "Lisbon",
+"region": "Europe"
+},
+{
+"name": "Italy",
+"demonym": "Italian",
+"capital": "Rome",
+"region": "Europe"
+},
+{
+"name": "Netherlands",
+"demonym": "Dutch",
+"capital": "Amsterdam",
+"region": "Europe"
+},
+{
+"name": "Belgium",
+"demonym": "Belgian",
+"capital": "Brussels",
+"region": "Europe"
+},
+{
+"name": "Luxembourg",
+"demonym": "Luxembourgish",
+"capital": "Luxembourg",
+"region": "Europe"
+},
+{
+"name": "Switzerland",
+"demonym": "Swiss",
+"capital": "Bern",
+"region": "Europe"
+},
+{
+"name": "Austria",
+"demonym": "Austrian",
+"capital": "Vienna",
+"region": "Europe"
+},
+{
+"name": "Denmark",
+"demonym": "Danish",
+"capital": "Copenhagen",
+"region": "Europe"
+},
+{
+"name": "Sweden",
+"demonym": "Swedish",
+"capital": "Stockholm",
+"region": "Europe"
+},
+{
+"name": "Norway",
+"demonym": "Norwegian",
+"capital": "Oslo",
+"region": "Europe"
+},
+{
+"name": "Finland",
+"demonym": "Finnish",
+"capital": "Helsinki",
+"region": "Europe"
+},
+{
+"name": "Iceland",
+"demonym": "Icelandic",
+"capital": "Reykjavik",
+"region": "Europe"
+},
+{
+"name": "Poland",
+"demonym": "Polish",
+"capital": "Warsaw",
+"region": "Europe"
+},
+{
+"name": "Czech Republic",
+"demonym": "Czech",
+"capital": "Prague",
+"region": "Europe"
+},
+{
+"name": "Slovakia",
+"demonym": "Slovak",
+"capital": "Bratislava",
+"region": "Europe"
+},
+{
+"name": "Hungary",
+"demonym": "Hungarian",
+"capital": "Budapest",
+"region": "Europe"
+},
+{
+"name": "Romania",
+"demonym": "Romanian",
+"capital": "Bucharest",
+"region": "Europe"
+},
+{
+"name": "Bulgaria",
+"demonym": "Bulgarian",
+"capital": "Sofia",
+"region": "Europe"
+},
+{
+"name": "Greece",
+"demonym": "Greek",
+"capital": "Athens",
+"region": "Europe"
+},
+{
+"name": "Croatia",
+"demonym": "Croatian",
+"capital": "Zagreb",
+"region": "Europe"
+},
+{
+"name": "Slovenia",
+"demonym": "Slovenian",
+"capital": "Ljubljana",
+"region": "Europe"
+},
+{
+"name": "Serbia",
+"demonym": "Serbian",
+"capital": "Belgrade",
+"region": "Europe"
+},
+{
+"name": "Bosnia and Herzegovina",
+"demonym": "Bosnian",
+"capital": "Sarajevo",
+"region": "Europe"
+},
+{
+"name": "Montenegro",
+"demonym": "Montenegrin",
+"capital": "Podgorica",
+"region": "Europe"
+},
+{
+"name": "North Macedonia",
+"demonym": "Macedonian",
+"capital": "Skopje",
+"region": "Europe"
+},
+{
+"name": "Albania",
+"demonym": "Albanian",
+"capital": "Tirana",
+"region": "Europe"
+},
+{
+"name": "Kosovo",
+"demonym": "Kosovar",
+"capital": "Pristina",
+"region": "Europe"
+},
+{
+"name": "Estonia",
+"demonym": "Estonian",
+"capital": "Tallinn",
+"region": "Europe"
+},
+{
+"name": "Latvia",
+"demonym": "Latvian",
+"capital": "Riga",
+"region": "Europe"
+},
+{
+"name": "Lithuania",
+"demonym": "Lithuanian",
+"capital": "Vilnius",
+"region": "Europe"
+},
+{
+"name": "Cyprus",
+"demonym": "Cypriot",
+"capital": "Nicosia",
+"region": "Europe"
+},
+{
+"name": "Malta",
+"demonym": "Maltese",
+"capital": "Valletta",
+"region": "Europe"
+},
+{
+"name": "Ukraine",
+"demonym": "Ukrainian",
+"capital": "Kyiv",
+"region": "Europe"
+},
+{
+"name": "Moldova",
+"demonym": "Moldovan",
+"capital": "Chisinau",
+"region": "Europe"
+},
+{
+"name": "Belarus",
+"demonym": "Belarusian",
+"capital": "Minsk",
+"region": "Europe"
+},
+{
+"name": "Russia",
+"demonym": "Russian",
+"capital": "Moscow",
+"region": "Europe"
+},
+{
+"name": "Gibraltar",
+"demonym": "Gibraltarian",
+"capital": "Gibraltar",
+"region": "Europe"
+},
+{
+"name": "Monaco",
+"demonym": "Monégasque",
+"capital": "Monaco",
+"region": "Europe"
+},
+{
+"name": "Liechtenstein",
+"demonym": "Liechtensteiner",
+"capital": "Vaduz",
+"region": "Europe"
+},
+{
+"name": "Andorra",
+"demonym": "Andorran",
+"capital": "Andorra la Vella",
+"region": "Europe"
+},
+{
+"name": "San Marino",
+"demonym": "Sammarinese",
+"capital": "San Marino",
+"region": "Europe"
+},
+{
+"name": "United States",
+"demonym": "American",
+"capital": "Washington, D.C.",
+"region": "North America"
+},
+{
+"name": "Canada",
+"demonym": "Canadian",
+"capital": "Ottawa",
+"region": "North America"
+},
+{
+"name": "Mexico",
+"demonym": "Mexican",
+"capital": "Mexico City",
+"region": "North America"
+},
+{
+"name": "Guatemala",
+"demonym": "Guatemalan",
+"capital": "Guatemala City",
+"region": "North America"
+},
+{
+"name": "Costa Rica",
+"demonym": "Costa Rican",
+"capital": "San José",
+"region": "North America"
+},
+{
+"name": "Panama",
+"demonym": "Panamanian",
+"capital": "Panama City",
+"region": "North America"
+},
+{
+"name": "Honduras",
+"demonym": "Honduran",
+"capital": "Tegucigalpa",
+"region": "North America"
+},
+{
+"name": "El Salvador",
+"demonym": "Salvadoran",
+"capital": "San Salvador",
+"region": "North America"
+},
+{
+"name": "Nicaragua",
+"demonym": "Nicaraguan",
+"capital": "Managua",
+"region": "North America"
+},
+{
+"name": "Dominican Republic",
+"demonym": "Dominican",
+"capital": "Santo Domingo",
+"region": "North America"
+},
+{
+"name": "Jamaica",
+"demonym": "Jamaican",
+"capital": "Kingston",
+"region": "North America"
+},
+{
+"name": "Cuba",
+"demonym": "Cuban",
+"capital": "Havana",
+"region": "North America"
+},
+{
+"name": "Puerto Rico",
+"demonym": "Puerto Rican",
+"capital": "San Juan",
+"region": "North America"
+},
+{
+"name": "Trinidad and Tobago",
+"demonym": "Trinidadian",
+"capital": "Port of Spain",
+"region": "North America"
+},
+{
+"name": "Bahamas",
+"demonym": "Bahamian",
+"capital": "Nassau",
+"region": "North America"
+},
+{
+"name": "Barbados",
+"demonym": "Barbadian",
+"capital": "Bridgetown",
+"region": "North America"
+},
+{
+"name": "Brazil",
+"demonym": "Brazilian",
+"capital": "Brasília",
+"region": "South America"
+},
+{
+"name": "Argentina",
+"demonym": "Argentine",
+"capital": "Buenos Aires",
+"region": "South America"
+},
+{
+"name": "Chile",
+"demonym": "Chilean",
+"capital": "Santiago",
+"region": "South America"
+},
+{
+"name": "Colombia",
+"demonym": "Colombian",
+"capital": "Bogotá",
+"region": "South America"
+},
+{
+"name": "Peru",
+"demonym": "Peruvian",
+"capital": "Lima",
+"region": "South America"
+},
+{
+"name": "Venezuela",
+"demonym": "Venezuelan",
+"capital": "Caracas",
+"region": "South America"
+},
+{
+"name": "Ecuador",
+"demonym": "Ecuadorian",
+"capital": "Quito",
+"region": "South America"
+},
+{
+"name": "Bolivia",
+"demonym": "Bolivian",
+"capital": "Sucre",
+"region": "South America"
+},
+{
+"name": "Paraguay",
+"demonym": "Paraguayan",
+"capital": "Asunción",
+"region": "South America"
+},
+{
+"name": "Uruguay",
+"demonym": "Uruguayan",
+"capital": "Montevideo",
+"region": "South America"
+},
+{
+"name": "Guyana",
+"demonym": "Guyanese",
+"capital": "Georgetown",
+"region": "South America"
+},
+{
+"name": "China",
+"demonym": "Chinese",
+"capital": "Beijing",
+"region": "Asia"
+},
+{
+"name": "Hong Kong",
+"demonym": "Hong Konger",
+"capital": "Hong Kong",
+"region": "Asia"
+},
+{
+"name": "Macau",
+"demonym": "Macanese",
+"capital": "Macau",
+"region": "Asia"
+},
+{
+"name": "Taiwan",
+"demonym": "Taiwanese",
+"capital": "Taipei",
+"region": "Asia"
+},
+{
+"name": "Japan",
+"demonym": "Japanese",
+"capital": "Tokyo",
+"region": "Asia"
+},
+{
+"name": "South Korea",
+"demonym": "South Korean",
+"capital": "Seoul",
+"region": "Asia"
+},
+{
+"name": "North Korea",
+"demonym": "North Korean",
+"capital": "Pyongyang",
+"region": "Asia"
+},
+{
+"name": "India",
+"demonym": "Indian",
+"capital": "New Delhi",
+"region": "Asia"
+},
+{
+"name": "Pakistan",
+"demonym": "Pakistani",
+"capital": "Islamabad",
+"region": "Asia"
+},
+{
+"name": "Bangladesh",
+"demonym": "Bangladeshi",
+"capital": "Dhaka",
+"region": "Asia"
+},
+{
+"name": "Sri Lanka",
+"demonym": "Sri Lankan",
+"capital": "Colombo",
+"region": "Asia"
+},
+{
+"name": "Nepal",
+"demonym": "Nepali",
+"capital": "Kathmandu",
+"region": "Asia"
+},
+{
+"name": "Singapore",
+"demonym": "Singaporean",
+"capital": "Singapore",
+"region": "Asia"
+},
+{
+"name": "Malaysia",
+"demonym": "Malaysian",
+"capital": "Kuala Lumpur",
+"region": "Asia"
+},
+{
+"name": "Indonesia",
+"demonym": "Indonesian",
+"capital": "Jakarta",
+"region": "Asia"
+},
+{
+"name": "Thailand",
+"demonym": "Thai",
+"capital": "Bangkok",
+"region": "Asia"
+},
+{
+"name": "Vietnam",
+"demonym": "Vietnamese",
+"capital": "Hanoi",
+"region": "Asia"
+},
+{
+"name": "Philippines",
+"demonym": "Filipino",
+"capital": "Manila",
+"region": "Asia"
+},
+{
+"name": "Cambodia",
+"demonym": "Cambodian",
+"capital": "Phnom Penh",
+"region": "Asia"
+},
+{
+"name": "Laos",
+"demonym": "Laotian",
+"capital": "Vientiane",
+"region": "Asia"
+},
+{
+"name": "Myanmar",
+"demonym": "Burmese",
+"capital": "Naypyidaw",
+"region": "Asia"
+},
+{
+"name": "Mongolia",
+"demonym": "Mongolian",
+"capital": "Ulaanbaatar",
+"region": "Asia"
+},
+{
+"name": "Kazakhstan",
+"demonym": "Kazakh",
+"capital": "Astana",
+"region": "Asia"
+},
+{
+"name": "Uzbekistan",
+"demonym": "Uzbek",
+"capital": "Tashkent",
+"region": "Asia"
+},
+{
+"name": "Azerbaijan",
+"demonym": "Azerbaijani",
+"capital": "Baku",
+"region": "Asia"
+},
+{
+"name": "Georgia",
+"demonym": "Georgian",
+"capital": "Tbilisi",
+"region": "Asia"
+},
+{
+"name": "Armenia",
+"demonym": "Armenian",
+"capital": "Yerevan",
+"region": "Asia"
+},
+{
+"name": "Kyrgyzstan",
+"demonym": "Kyrgyz",
+"capital": "Bishkek",
+"region": "Asia"
+},
+{
+"name": "Turkmenistan",
+"demonym": "Turkmen",
+"capital": "Ashgabat",
+"region": "Asia"
+},
+{
+"name": "Tajikistan",
+"demonym": "Tajik",
+"capital": "Dushanbe",
+"region": "Asia"
+},
+{
+"name": "Brunei",
+"demonym": "Bruneian",
+"capital": "Bandar Seri Begawan",
+"region": "Asia"
+},
+{
+"name": "United Arab Emirates",
+"demonym": "Emirati",
+"capital": "Abu Dhabi",
+"region": "Middle East"
+},
+{
+"name": "Saudi Arabia",
+"demonym": "Saudi",
+"capital": "Riyadh",
+"region": "Middle East"
+},
+{
+"name": "Qatar",
+"demonym": "Qatari",
+"capital": "Doha",
+"region": "Middle East"
+},
+{
+"name": "Kuwait",
+"demonym": "Kuwaiti",
+"capital": "Kuwait City",
+"region": "Middle East"
+},
+{
+"name": "Bahrain",
+"demonym": "Bahraini",
+"capital": "Manama",
+"region": "Middle East"
+},
+{
+"name": "Oman",
+"demonym": "Omani",
+"capital": "Muscat",
+"region": "Middle East"
+},
+{
+"name": "Israel",
+"demonym": "Israeli",
+"capital": "Jerusalem",
+"region": "Middle East"
+},
+{
+"name": "Turkey",
+"demonym": "Turkish",
+"capital": "Ankara",
+"region": "Middle East"
+},
+{
+"name": "Jordan",
+"demonym": "Jordanian",
+"capital": "Amman",
+"region": "Middle East"
+},
+{
+"name": "Lebanon",
+"demonym": "Lebanese",
+"capital": "Beirut",
+"region": "Middle East"
+},
+{
+"name": "Iraq",
+"demonym": "Iraqi",
+"capital": "Baghdad",
+"region": "Middle East"
+},
+{
+"name": "Iran",
+"demonym": "Iranian",
+"capital": "Tehran",
+"region": "Middle East"
+},
+{
+"name": "Yemen",
+"demonym": "Yemeni",
+"capital": "Sana'a",
+"region": "Middle East"
+},
+{
+"name": "Syria",
+"demonym": "Syrian",
+"capital": "Damascus",
+"region": "Middle East"
+},
+{
+"name": "Palestine",
+"demonym": "Palestinian",
+"capital": "Ramallah",
+"region": "Middle East"
+},
+{
+"name": "South Africa",
+"demonym": "South African",
+"capital": "Pretoria",
+"region": "Africa"
+},
+{
+"name": "Nigeria",
+"demonym": "Nigerian",
+"capital": "Abuja",
+"region": "Africa"
+},
+{
+"name": "Egypt",
+"demonym": "Egyptian",
+"capital": "Cairo",
+"region": "Africa"
+},
+{
+"name": "Kenya",
+"demonym": "Kenyan",
+"capital": "Nairobi",
+"region": "Africa"
+},
+{
+"name": "Morocco",
+"demonym": "Moroccan",
+"capital": "Rabat",
+"region": "Africa"
+},
+{
+"name": "Algeria",
+"demonym": "Algerian",
+"capital": "Algiers",
+"region": "Africa"
+},
+{
+"name": "Tunisia",
+"demonym": "Tunisian",
+"capital": "Tunis",
+"region": "Africa"
+},
+{
+"name": "Ghana",
+"demonym": "Ghanaian",
+"capital": "Accra",
+"region": "Africa"
+},
+{
+"name": "Ethiopia",
+"demonym": "Ethiopian",
+"capital": "Addis Ababa",
+"region": "Africa"
+},
+{
+"name": "Tanzania",
+"demonym": "Tanzanian",
+"capital": "Dodoma",
+"region": "Africa"
+},
+{
+"name": "Uganda",
+"demonym": "Ugandan",
+"capital": "Kampala",
+"region": "Africa"
+},
+{
+"name": "Angola",
+"demonym": "Angolan",
+"capital": "Luanda",
+"region": "Africa"
+},
+{
+"name": "Ivory Coast",
+"demonym": "Ivorian",
+"capital": "Yamoussoukro",
+"region": "Africa"
+},
+{
+"name": "Senegal",
+"demonym": "Senegalese",
+"capital": "Dakar",
+"region": "Africa"
+},
+{
+"name": "Cameroon",
+"demonym": "Cameroonian",
+"capital": "Yaoundé",
+"region": "Africa"
+},
+{
+"name": "Zambia",
+"demonym": "Zambian",
+"capital": "Lusaka",
+"region": "Africa"
+},
+{
+"name": "Zimbabwe",
+"demonym": "Zimbabwean",
+"capital": "Harare",
+"region": "Africa"
+},
+{
+"name": "Mozambique",
+"demonym": "Mozambican",
+"capital": "Maputo",
+"region": "Africa"
+},
+{
+"name": "Botswana",
+"demonym": "Botswanan",
+"capital": "Gaborone",
+"region": "Africa"
+},
+{
+"name": "Namibia",
+"demonym": "Namibian",
+"capital": "Windhoek",
+"region": "Africa"
+},
+{
+"name": "Mauritius",
+"demonym": "Mauritian",
+"capital": "Port Louis",
+"region": "Africa"
+},
+{
+"name": "Rwanda",
+"demonym": "Rwandan",
+"capital": "Kigali",
+"region": "Africa"
+},
+{
+"name": "Libya",
+"demonym": "Libyan",
+"capital": "Tripoli",
+"region": "Africa"
+},
+{
+"name": "Sudan",
+"demonym": "Sudanese",
+"capital": "Khartoum",
+"region": "Africa"
+},
+{
+"name": "Democratic Republic of the Congo",
+"demonym": "Congolese",
+"capital": "Kinshasa",
+"region": "Africa"
+},
+{
+"name": "Australia",
+"demonym": "Australian",
+"capital": "Canberra",
+"region": "Oceania"
+},
+{
+"name": "New Zealand",
+"demonym": "New Zealander",
+"capital": "Wellington",
+"region": "Oceania"
+},
+{
+"name": "Fiji",
+"demonym": "Fijian",
+"capital": "Suva",
+"region": "Oceania"
+},
+{
+"name": "Papua New Guinea",
+"demonym": "Papua New Guinean",
+"capital": "Port Moresby",
+"region": "Oceania"
+}
+]
+}

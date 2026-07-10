@@ -1,0 +1,6564 @@
+{
+"cities": [
+{
+"city": "New York",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Los Angeles",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Chicago",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Houston",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Phoenix",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Philadelphia",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "San Antonio",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "San Diego",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Dallas",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "San Jose",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Austin",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Jacksonville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fort Worth",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Columbus",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Charlotte",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "San Francisco",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Indianapolis",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Seattle",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Denver",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Washington",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Boston",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "El Paso",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Nashville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Detroit",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Oklahoma City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Portland",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Las Vegas",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Memphis",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Louisville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Baltimore",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Milwaukee",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Albuquerque",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Tucson",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fresno",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Mesa",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Sacramento",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Atlanta",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Kansas City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Colorado Springs",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Miami",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Raleigh",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Omaha",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Long Beach",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Virginia Beach",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Oakland",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Minneapolis",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Tulsa",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Tampa",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Arlington",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "New Orleans",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Wichita",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Cleveland",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bakersfield",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Aurora",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Anaheim",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Honolulu",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Santa Ana",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Riverside",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Corpus Christi",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lexington",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Henderson",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Stockton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Saint Paul",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Cincinnati",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Pittsburgh",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Greensboro",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Anchorage",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Plano",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lincoln",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Orlando",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Irvine",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Newark",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Toledo",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Durham",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Chula Vista",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fort Wayne",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Jersey City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "St. Louis",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Chandler",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Madison",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Laredo",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Buffalo",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lubbock",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Scottsdale",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Reno",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Glendale",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Gilbert",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Winston-Salem",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "North Las Vegas",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Norfolk",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Chesapeake",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Garland",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Irving",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Hialeah",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fremont",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Boise",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Richmond",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Baton Rouge",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Spokane",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Des Moines",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Tacoma",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "San Bernardino",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Modesto",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fontana",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Santa Clarita",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Birmingham",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Oxnard",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fayetteville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Moreno Valley",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Rochester",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Huntington Beach",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Salt Lake City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Grand Rapids",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Amarillo",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Yonkers",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Montgomery",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Akron",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Little Rock",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Huntsville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Augusta",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Grand Prairie",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Tallahassee",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Overland Park",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Tempe",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "McKinney",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Mobile",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Cape Coral",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Shreveport",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Frisco",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Knoxville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Worcester",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Brownsville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fort Lauderdale",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Sioux Falls",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Ontario",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Chattanooga",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Providence",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Newport News",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Rancho Cucamonga",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Santa Rosa",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Oceanside",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Salem",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Elk Grove",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Garden Grove",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Pembroke Pines",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Peoria",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Eugene",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Corona",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Cary",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fort Collins",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Jackson",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Alexandria",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Hayward",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lancaster",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lakewood",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Clarksville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Palmdale",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Salinas",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Hollywood",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Pasadena",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Sunnyvale",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Macon",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Pomona",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Escondido",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Killeen",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Naperville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Joliet",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bellevue",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Rockford",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Savannah",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Paterson",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Torrance",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bridgeport",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "McAllen",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Mesquite",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Syracuse",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Midland",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Murfreesboro",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Miramar",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Dayton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fullerton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Olathe",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Orange",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Thornton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Roseville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Denton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Waco",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Surprise",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Carrollton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "West Valley City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Charleston",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Warren",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Hampton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Gainesville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Visalia",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Coral Springs",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Columbia",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Cedar Rapids",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Sterling Heights",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "New Haven",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Stamford",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Concord",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Kent",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Santa Clara",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Elizabeth",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Round Rock",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Thousand Oaks",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lafayette",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Athens",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Topeka",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Simi Valley",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fargo",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Norman",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Abilene",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Wilmington",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Hartford",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Victorville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Pearland",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Vallejo",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Ann Arbor",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Berkeley",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Allentown",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Richardson",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Odessa",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Arvada",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Cambridge",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Sugar Land",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Beaumont",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lansing",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Evansville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Independence",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fairfield",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Provo",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Clearwater",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "College Station",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "West Jordan",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Carlsbad",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "El Monte",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Murrieta",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Temecula",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Palm Bay",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Costa Mesa",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Westminster",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "North Charleston",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Miami Gardens",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Manchester",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "High Point",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Downey",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Clovis",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Pompano Beach",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Pueblo",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Elgin",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lowell",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Antioch",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "West Palm Beach",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Everett",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Ventura",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Centennial",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lakeland",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Gresham",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Billings",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Inglewood",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Broken Arrow",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Boulder",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Greeley",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Daly City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Green Bay",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Burbank",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Renton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bellingham",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Nampa",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Boca Raton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Sarasota",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fort Myers",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Asheville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Greenville",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Myrtle Beach",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Roanoke",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Frederick",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Trenton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Scranton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Erie",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Albany",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bangor",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Flint",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Kalamazoo",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "South Bend",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Duluth",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Appleton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lawrence",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fort Smith",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Lake Charles",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Biloxi",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Tuscaloosa",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Pensacola",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Ocala",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Kissimmee",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bradenton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Johnson City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bowling Green",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Youngstown",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Canton",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Terre Haute",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Carmel",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Kenosha",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bismarck",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Rapid City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Cheyenne",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Missoula",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bozeman",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Idaho Falls",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Ogden",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Orem",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Flagstaff",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Yuma",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Santa Fe",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Las Cruces",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Grand Junction",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Carson City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bend",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Medford",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Yakima",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Olympia",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Redding",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Chico",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Napa",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Santa Barbara",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Palm Springs",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Monterey",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Poughkeepsie",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "White Plains",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Edison",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Atlantic City",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Dover",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Annapolis",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Bethesda",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fairfax",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Fredericksburg",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Marietta",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Alpharetta",
+"country": "United States",
+"region": "North America"
+},
+{
+"city": "Toronto",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Montreal",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Vancouver",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Calgary",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Edmonton",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Ottawa",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Winnipeg",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Quebec City",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Hamilton",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Kitchener",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "London",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Victoria",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Halifax",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Oshawa",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Windsor",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Saskatoon",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Regina",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Mississauga",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Brampton",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Surrey",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Markham",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Burnaby",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Laval",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Gatineau",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Richmond Hill",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "St. Catharines",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Kelowna",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Barrie",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Guelph",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Sherbrooke",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Abbotsford",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "St. John's",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Kingston",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Sudbury",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Thunder Bay",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Waterloo",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Moncton",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Nanaimo",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Red Deer",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Lethbridge",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Kamloops",
+"country": "Canada",
+"region": "North America"
+},
+{
+"city": "Mexico City",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Guadalajara",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Monterrey",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Puebla",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Tijuana",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Leon",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Juarez",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Zapopan",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Merida",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Cancun",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Queretaro",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "San Luis Potosi",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Aguascalientes",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Mexicali",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Culiacan",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Chihuahua",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Morelia",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Toluca",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Veracruz",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Acapulco",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Hermosillo",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Saltillo",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Cuernavaca",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Playa del Carmen",
+"country": "Mexico",
+"region": "North America"
+},
+{
+"city": "Guatemala City",
+"country": "Guatemala",
+"region": "North America"
+},
+{
+"city": "Quetzaltenango",
+"country": "Guatemala",
+"region": "North America"
+},
+{
+"city": "San Jose",
+"country": "Costa Rica",
+"region": "North America"
+},
+{
+"city": "Alajuela",
+"country": "Costa Rica",
+"region": "North America"
+},
+{
+"city": "Heredia",
+"country": "Costa Rica",
+"region": "North America"
+},
+{
+"city": "Panama City",
+"country": "Panama",
+"region": "North America"
+},
+{
+"city": "Colon",
+"country": "Panama",
+"region": "North America"
+},
+{
+"city": "David",
+"country": "Panama",
+"region": "North America"
+},
+{
+"city": "Tegucigalpa",
+"country": "Honduras",
+"region": "North America"
+},
+{
+"city": "San Pedro Sula",
+"country": "Honduras",
+"region": "North America"
+},
+{
+"city": "San Salvador",
+"country": "El Salvador",
+"region": "North America"
+},
+{
+"city": "Santa Ana",
+"country": "El Salvador",
+"region": "North America"
+},
+{
+"city": "Managua",
+"country": "Nicaragua",
+"region": "North America"
+},
+{
+"city": "Leon",
+"country": "Nicaragua",
+"region": "North America"
+},
+{
+"city": "Santo Domingo",
+"country": "Dominican Republic",
+"region": "North America"
+},
+{
+"city": "Santiago",
+"country": "Dominican Republic",
+"region": "North America"
+},
+{
+"city": "Punta Cana",
+"country": "Dominican Republic",
+"region": "North America"
+},
+{
+"city": "Kingston",
+"country": "Jamaica",
+"region": "North America"
+},
+{
+"city": "Montego Bay",
+"country": "Jamaica",
+"region": "North America"
+},
+{
+"city": "Havana",
+"country": "Cuba",
+"region": "North America"
+},
+{
+"city": "Santiago de Cuba",
+"country": "Cuba",
+"region": "North America"
+},
+{
+"city": "San Juan",
+"country": "Puerto Rico",
+"region": "North America"
+},
+{
+"city": "Ponce",
+"country": "Puerto Rico",
+"region": "North America"
+},
+{
+"city": "Port of Spain",
+"country": "Trinidad and Tobago",
+"region": "North America"
+},
+{
+"city": "San Fernando",
+"country": "Trinidad and Tobago",
+"region": "North America"
+},
+{
+"city": "Nassau",
+"country": "Bahamas",
+"region": "North America"
+},
+{
+"city": "Bridgetown",
+"country": "Barbados",
+"region": "North America"
+},
+{
+"city": "Sao Paulo",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Rio de Janeiro",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Brasilia",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Salvador",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Fortaleza",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Belo Horizonte",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Manaus",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Curitiba",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Recife",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Porto Alegre",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Goiania",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Belem",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Guarulhos",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Campinas",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Sao Luis",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Maceio",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Natal",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Campo Grande",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Teresina",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Joao Pessoa",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Santos",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Ribeirao Preto",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Uberlandia",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Sorocaba",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Florianopolis",
+"country": "Brazil",
+"region": "South America"
+},
+{
+"city": "Buenos Aires",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "Cordoba",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "Rosario",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "Mendoza",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "La Plata",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "San Miguel de Tucuman",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "Mar del Plata",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "Salta",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "Santa Fe",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "San Juan",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "Bahia Blanca",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "Neuquen",
+"country": "Argentina",
+"region": "South America"
+},
+{
+"city": "Santiago",
+"country": "Chile",
+"region": "South America"
+},
+{
+"city": "Valparaiso",
+"country": "Chile",
+"region": "South America"
+},
+{
+"city": "Concepcion",
+"country": "Chile",
+"region": "South America"
+},
+{
+"city": "Antofagasta",
+"country": "Chile",
+"region": "South America"
+},
+{
+"city": "Vina del Mar",
+"country": "Chile",
+"region": "South America"
+},
+{
+"city": "La Serena",
+"country": "Chile",
+"region": "South America"
+},
+{
+"city": "Temuco",
+"country": "Chile",
+"region": "South America"
+},
+{
+"city": "Rancagua",
+"country": "Chile",
+"region": "South America"
+},
+{
+"city": "Bogota",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Medellin",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Cali",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Barranquilla",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Cartagena",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Cucuta",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Bucaramanga",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Pereira",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Santa Marta",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Ibague",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Manizales",
+"country": "Colombia",
+"region": "South America"
+},
+{
+"city": "Lima",
+"country": "Peru",
+"region": "South America"
+},
+{
+"city": "Arequipa",
+"country": "Peru",
+"region": "South America"
+},
+{
+"city": "Trujillo",
+"country": "Peru",
+"region": "South America"
+},
+{
+"city": "Chiclayo",
+"country": "Peru",
+"region": "South America"
+},
+{
+"city": "Cusco",
+"country": "Peru",
+"region": "South America"
+},
+{
+"city": "Piura",
+"country": "Peru",
+"region": "South America"
+},
+{
+"city": "Iquitos",
+"country": "Peru",
+"region": "South America"
+},
+{
+"city": "Caracas",
+"country": "Venezuela",
+"region": "South America"
+},
+{
+"city": "Maracaibo",
+"country": "Venezuela",
+"region": "South America"
+},
+{
+"city": "Valencia",
+"country": "Venezuela",
+"region": "South America"
+},
+{
+"city": "Barquisimeto",
+"country": "Venezuela",
+"region": "South America"
+},
+{
+"city": "Maracay",
+"country": "Venezuela",
+"region": "South America"
+},
+{
+"city": "Ciudad Guayana",
+"country": "Venezuela",
+"region": "South America"
+},
+{
+"city": "Quito",
+"country": "Ecuador",
+"region": "South America"
+},
+{
+"city": "Guayaquil",
+"country": "Ecuador",
+"region": "South America"
+},
+{
+"city": "Cuenca",
+"country": "Ecuador",
+"region": "South America"
+},
+{
+"city": "Ambato",
+"country": "Ecuador",
+"region": "South America"
+},
+{
+"city": "La Paz",
+"country": "Bolivia",
+"region": "South America"
+},
+{
+"city": "Santa Cruz de la Sierra",
+"country": "Bolivia",
+"region": "South America"
+},
+{
+"city": "Cochabamba",
+"country": "Bolivia",
+"region": "South America"
+},
+{
+"city": "Asuncion",
+"country": "Paraguay",
+"region": "South America"
+},
+{
+"city": "Ciudad del Este",
+"country": "Paraguay",
+"region": "South America"
+},
+{
+"city": "Montevideo",
+"country": "Uruguay",
+"region": "South America"
+},
+{
+"city": "Salto",
+"country": "Uruguay",
+"region": "South America"
+},
+{
+"city": "Georgetown",
+"country": "Guyana",
+"region": "South America"
+},
+{
+"city": "London",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Birmingham",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Manchester",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Leeds",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Glasgow",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Liverpool",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Sheffield",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Edinburgh",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Bristol",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Cardiff",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Leicester",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Coventry",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Bradford",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Belfast",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Nottingham",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Newcastle upon Tyne",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Southampton",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Portsmouth",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Brighton",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Plymouth",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Reading",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Derby",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Wolverhampton",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Stoke-on-Trent",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Milton Keynes",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Aberdeen",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Norwich",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Swansea",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Oxford",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Cambridge",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "York",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Dundee",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Sunderland",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Hull",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Exeter",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Bournemouth",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Middlesbrough",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Ipswich",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Luton",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Preston",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Blackpool",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Gloucester",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Swindon",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Bath",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Watford",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Slough",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Peterborough",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Chelmsford",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Colchester",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Crawley",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Maidstone",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Basingstoke",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Stockport",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Bolton",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Salford",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Warrington",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Telford",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Doncaster",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Huddersfield",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Newport",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Poole",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Cheltenham",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Lincoln",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Chester",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Carlisle",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Inverness",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Stirling",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Wrexham",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Guildford",
+"country": "United Kingdom",
+"region": "Europe"
+},
+{
+"city": "Dublin",
+"country": "Ireland",
+"region": "Europe"
+},
+{
+"city": "Cork",
+"country": "Ireland",
+"region": "Europe"
+},
+{
+"city": "Galway",
+"country": "Ireland",
+"region": "Europe"
+},
+{
+"city": "Limerick",
+"country": "Ireland",
+"region": "Europe"
+},
+{
+"city": "Waterford",
+"country": "Ireland",
+"region": "Europe"
+},
+{
+"city": "Paris",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Marseille",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Lyon",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Toulouse",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Nice",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Nantes",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Strasbourg",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Montpellier",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Bordeaux",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Lille",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Rennes",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Reims",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Le Havre",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Saint-Etienne",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Toulon",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Grenoble",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Dijon",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Angers",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Nimes",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Clermont-Ferrand",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Aix-en-Provence",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Brest",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Tours",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Amiens",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Metz",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Cannes",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Perpignan",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Besancon",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Orleans",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Mulhouse",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Caen",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Nancy",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Avignon",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Poitiers",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "La Rochelle",
+"country": "France",
+"region": "Europe"
+},
+{
+"city": "Berlin",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Hamburg",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Munich",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Cologne",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Frankfurt",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Stuttgart",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Dusseldorf",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Leipzig",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Dortmund",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Essen",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Bremen",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Dresden",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Hanover",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Nuremberg",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Duisburg",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Bochum",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Wuppertal",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Bielefeld",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Bonn",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Mannheim",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Karlsruhe",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Wiesbaden",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Munster",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Augsburg",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Aachen",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Gelsenkirchen",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Freiburg",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Kiel",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Krefeld",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Mainz",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Erfurt",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Rostock",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Wurzburg",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Regensburg",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Heidelberg",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Ingolstadt",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Ulm",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Wolfsburg",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Potsdam",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Kassel",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Saarbrucken",
+"country": "Germany",
+"region": "Europe"
+},
+{
+"city": "Madrid",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Barcelona",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Valencia",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Seville",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Zaragoza",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Malaga",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Murcia",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Palma",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Las Palmas",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Bilbao",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Alicante",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Cordoba",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Valladolid",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Vigo",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Granada",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Santander",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Pamplona",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "San Sebastian",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Gijon",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Almeria",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Salamanca",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Tarragona",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Sabadell",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Elche",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Oviedo",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Marbella",
+"country": "Spain",
+"region": "Europe"
+},
+{
+"city": "Lisbon",
+"country": "Portugal",
+"region": "Europe"
+},
+{
+"city": "Porto",
+"country": "Portugal",
+"region": "Europe"
+},
+{
+"city": "Braga",
+"country": "Portugal",
+"region": "Europe"
+},
+{
+"city": "Coimbra",
+"country": "Portugal",
+"region": "Europe"
+},
+{
+"city": "Funchal",
+"country": "Portugal",
+"region": "Europe"
+},
+{
+"city": "Aveiro",
+"country": "Portugal",
+"region": "Europe"
+},
+{
+"city": "Faro",
+"country": "Portugal",
+"region": "Europe"
+},
+{
+"city": "Setubal",
+"country": "Portugal",
+"region": "Europe"
+},
+{
+"city": "Rome",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Milan",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Naples",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Turin",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Palermo",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Genoa",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Bologna",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Florence",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Bari",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Catania",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Venice",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Verona",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Messina",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Padua",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Trieste",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Modena",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Parma",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Reggio Calabria",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Livorno",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Cagliari",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Perugia",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Rimini",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Salerno",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Bergamo",
+"country": "Italy",
+"region": "Europe"
+},
+{
+"city": "Amsterdam",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Rotterdam",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "The Hague",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Utrecht",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Eindhoven",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Groningen",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Tilburg",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Almere",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Breda",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Nijmegen",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Haarlem",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Arnhem",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Amersfoort",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Maastricht",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Enschede",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Leiden",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Delft",
+"country": "Netherlands",
+"region": "Europe"
+},
+{
+"city": "Brussels",
+"country": "Belgium",
+"region": "Europe"
+},
+{
+"city": "Antwerp",
+"country": "Belgium",
+"region": "Europe"
+},
+{
+"city": "Ghent",
+"country": "Belgium",
+"region": "Europe"
+},
+{
+"city": "Charleroi",
+"country": "Belgium",
+"region": "Europe"
+},
+{
+"city": "Liege",
+"country": "Belgium",
+"region": "Europe"
+},
+{
+"city": "Bruges",
+"country": "Belgium",
+"region": "Europe"
+},
+{
+"city": "Namur",
+"country": "Belgium",
+"region": "Europe"
+},
+{
+"city": "Leuven",
+"country": "Belgium",
+"region": "Europe"
+},
+{
+"city": "Luxembourg City",
+"country": "Luxembourg",
+"region": "Europe"
+},
+{
+"city": "Zurich",
+"country": "Switzerland",
+"region": "Europe"
+},
+{
+"city": "Geneva",
+"country": "Switzerland",
+"region": "Europe"
+},
+{
+"city": "Basel",
+"country": "Switzerland",
+"region": "Europe"
+},
+{
+"city": "Bern",
+"country": "Switzerland",
+"region": "Europe"
+},
+{
+"city": "Lausanne",
+"country": "Switzerland",
+"region": "Europe"
+},
+{
+"city": "Lucerne",
+"country": "Switzerland",
+"region": "Europe"
+},
+{
+"city": "Winterthur",
+"country": "Switzerland",
+"region": "Europe"
+},
+{
+"city": "Lugano",
+"country": "Switzerland",
+"region": "Europe"
+},
+{
+"city": "Vienna",
+"country": "Austria",
+"region": "Europe"
+},
+{
+"city": "Graz",
+"country": "Austria",
+"region": "Europe"
+},
+{
+"city": "Linz",
+"country": "Austria",
+"region": "Europe"
+},
+{
+"city": "Salzburg",
+"country": "Austria",
+"region": "Europe"
+},
+{
+"city": "Innsbruck",
+"country": "Austria",
+"region": "Europe"
+},
+{
+"city": "Klagenfurt",
+"country": "Austria",
+"region": "Europe"
+},
+{
+"city": "Copenhagen",
+"country": "Denmark",
+"region": "Europe"
+},
+{
+"city": "Aarhus",
+"country": "Denmark",
+"region": "Europe"
+},
+{
+"city": "Odense",
+"country": "Denmark",
+"region": "Europe"
+},
+{
+"city": "Aalborg",
+"country": "Denmark",
+"region": "Europe"
+},
+{
+"city": "Esbjerg",
+"country": "Denmark",
+"region": "Europe"
+},
+{
+"city": "Stockholm",
+"country": "Sweden",
+"region": "Europe"
+},
+{
+"city": "Gothenburg",
+"country": "Sweden",
+"region": "Europe"
+},
+{
+"city": "Malmo",
+"country": "Sweden",
+"region": "Europe"
+},
+{
+"city": "Uppsala",
+"country": "Sweden",
+"region": "Europe"
+},
+{
+"city": "Vasteras",
+"country": "Sweden",
+"region": "Europe"
+},
+{
+"city": "Linkoping",
+"country": "Sweden",
+"region": "Europe"
+},
+{
+"city": "Orebro",
+"country": "Sweden",
+"region": "Europe"
+},
+{
+"city": "Helsingborg",
+"country": "Sweden",
+"region": "Europe"
+},
+{
+"city": "Oslo",
+"country": "Norway",
+"region": "Europe"
+},
+{
+"city": "Bergen",
+"country": "Norway",
+"region": "Europe"
+},
+{
+"city": "Trondheim",
+"country": "Norway",
+"region": "Europe"
+},
+{
+"city": "Stavanger",
+"country": "Norway",
+"region": "Europe"
+},
+{
+"city": "Drammen",
+"country": "Norway",
+"region": "Europe"
+},
+{
+"city": "Kristiansand",
+"country": "Norway",
+"region": "Europe"
+},
+{
+"city": "Helsinki",
+"country": "Finland",
+"region": "Europe"
+},
+{
+"city": "Espoo",
+"country": "Finland",
+"region": "Europe"
+},
+{
+"city": "Tampere",
+"country": "Finland",
+"region": "Europe"
+},
+{
+"city": "Turku",
+"country": "Finland",
+"region": "Europe"
+},
+{
+"city": "Oulu",
+"country": "Finland",
+"region": "Europe"
+},
+{
+"city": "Jyvaskyla",
+"country": "Finland",
+"region": "Europe"
+},
+{
+"city": "Reykjavik",
+"country": "Iceland",
+"region": "Europe"
+},
+{
+"city": "Warsaw",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Krakow",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Lodz",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Wroclaw",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Poznan",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Gdansk",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Szczecin",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Lublin",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Katowice",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Bydgoszcz",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Bialystok",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Gdynia",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Rzeszow",
+"country": "Poland",
+"region": "Europe"
+},
+{
+"city": "Prague",
+"country": "Czech Republic",
+"region": "Europe"
+},
+{
+"city": "Brno",
+"country": "Czech Republic",
+"region": "Europe"
+},
+{
+"city": "Ostrava",
+"country": "Czech Republic",
+"region": "Europe"
+},
+{
+"city": "Plzen",
+"country": "Czech Republic",
+"region": "Europe"
+},
+{
+"city": "Liberec",
+"country": "Czech Republic",
+"region": "Europe"
+},
+{
+"city": "Olomouc",
+"country": "Czech Republic",
+"region": "Europe"
+},
+{
+"city": "Bratislava",
+"country": "Slovakia",
+"region": "Europe"
+},
+{
+"city": "Kosice",
+"country": "Slovakia",
+"region": "Europe"
+},
+{
+"city": "Nitra",
+"country": "Slovakia",
+"region": "Europe"
+},
+{
+"city": "Budapest",
+"country": "Hungary",
+"region": "Europe"
+},
+{
+"city": "Debrecen",
+"country": "Hungary",
+"region": "Europe"
+},
+{
+"city": "Szeged",
+"country": "Hungary",
+"region": "Europe"
+},
+{
+"city": "Miskolc",
+"country": "Hungary",
+"region": "Europe"
+},
+{
+"city": "Pecs",
+"country": "Hungary",
+"region": "Europe"
+},
+{
+"city": "Bucharest",
+"country": "Romania",
+"region": "Europe"
+},
+{
+"city": "Cluj-Napoca",
+"country": "Romania",
+"region": "Europe"
+},
+{
+"city": "Timisoara",
+"country": "Romania",
+"region": "Europe"
+},
+{
+"city": "Iasi",
+"country": "Romania",
+"region": "Europe"
+},
+{
+"city": "Constanta",
+"country": "Romania",
+"region": "Europe"
+},
+{
+"city": "Brasov",
+"country": "Romania",
+"region": "Europe"
+},
+{
+"city": "Craiova",
+"country": "Romania",
+"region": "Europe"
+},
+{
+"city": "Galati",
+"country": "Romania",
+"region": "Europe"
+},
+{
+"city": "Ploiesti",
+"country": "Romania",
+"region": "Europe"
+},
+{
+"city": "Sofia",
+"country": "Bulgaria",
+"region": "Europe"
+},
+{
+"city": "Plovdiv",
+"country": "Bulgaria",
+"region": "Europe"
+},
+{
+"city": "Varna",
+"country": "Bulgaria",
+"region": "Europe"
+},
+{
+"city": "Burgas",
+"country": "Bulgaria",
+"region": "Europe"
+},
+{
+"city": "Ruse",
+"country": "Bulgaria",
+"region": "Europe"
+},
+{
+"city": "Athens",
+"country": "Greece",
+"region": "Europe"
+},
+{
+"city": "Thessaloniki",
+"country": "Greece",
+"region": "Europe"
+},
+{
+"city": "Patras",
+"country": "Greece",
+"region": "Europe"
+},
+{
+"city": "Heraklion",
+"country": "Greece",
+"region": "Europe"
+},
+{
+"city": "Larissa",
+"country": "Greece",
+"region": "Europe"
+},
+{
+"city": "Volos",
+"country": "Greece",
+"region": "Europe"
+},
+{
+"city": "Zagreb",
+"country": "Croatia",
+"region": "Europe"
+},
+{
+"city": "Split",
+"country": "Croatia",
+"region": "Europe"
+},
+{
+"city": "Rijeka",
+"country": "Croatia",
+"region": "Europe"
+},
+{
+"city": "Dubrovnik",
+"country": "Croatia",
+"region": "Europe"
+},
+{
+"city": "Osijek",
+"country": "Croatia",
+"region": "Europe"
+},
+{
+"city": "Ljubljana",
+"country": "Slovenia",
+"region": "Europe"
+},
+{
+"city": "Maribor",
+"country": "Slovenia",
+"region": "Europe"
+},
+{
+"city": "Celje",
+"country": "Slovenia",
+"region": "Europe"
+},
+{
+"city": "Belgrade",
+"country": "Serbia",
+"region": "Europe"
+},
+{
+"city": "Novi Sad",
+"country": "Serbia",
+"region": "Europe"
+},
+{
+"city": "Nis",
+"country": "Serbia",
+"region": "Europe"
+},
+{
+"city": "Kragujevac",
+"country": "Serbia",
+"region": "Europe"
+},
+{
+"city": "Subotica",
+"country": "Serbia",
+"region": "Europe"
+},
+{
+"city": "Sarajevo",
+"country": "Bosnia and Herzegovina",
+"region": "Europe"
+},
+{
+"city": "Banja Luka",
+"country": "Bosnia and Herzegovina",
+"region": "Europe"
+},
+{
+"city": "Mostar",
+"country": "Bosnia and Herzegovina",
+"region": "Europe"
+},
+{
+"city": "Tuzla",
+"country": "Bosnia and Herzegovina",
+"region": "Europe"
+},
+{
+"city": "Podgorica",
+"country": "Montenegro",
+"region": "Europe"
+},
+{
+"city": "Niksic",
+"country": "Montenegro",
+"region": "Europe"
+},
+{
+"city": "Skopje",
+"country": "North Macedonia",
+"region": "Europe"
+},
+{
+"city": "Bitola",
+"country": "North Macedonia",
+"region": "Europe"
+},
+{
+"city": "Tirana",
+"country": "Albania",
+"region": "Europe"
+},
+{
+"city": "Durres",
+"country": "Albania",
+"region": "Europe"
+},
+{
+"city": "Shkoder",
+"country": "Albania",
+"region": "Europe"
+},
+{
+"city": "Vlore",
+"country": "Albania",
+"region": "Europe"
+},
+{
+"city": "Pristina",
+"country": "Kosovo",
+"region": "Europe"
+},
+{
+"city": "Prizren",
+"country": "Kosovo",
+"region": "Europe"
+},
+{
+"city": "Tallinn",
+"country": "Estonia",
+"region": "Europe"
+},
+{
+"city": "Tartu",
+"country": "Estonia",
+"region": "Europe"
+},
+{
+"city": "Narva",
+"country": "Estonia",
+"region": "Europe"
+},
+{
+"city": "Riga",
+"country": "Latvia",
+"region": "Europe"
+},
+{
+"city": "Daugavpils",
+"country": "Latvia",
+"region": "Europe"
+},
+{
+"city": "Vilnius",
+"country": "Lithuania",
+"region": "Europe"
+},
+{
+"city": "Kaunas",
+"country": "Lithuania",
+"region": "Europe"
+},
+{
+"city": "Panevezys",
+"country": "Lithuania",
+"region": "Europe"
+},
+{
+"city": "Nicosia",
+"country": "Cyprus",
+"region": "Europe"
+},
+{
+"city": "Limassol",
+"country": "Cyprus",
+"region": "Europe"
+},
+{
+"city": "Larnaca",
+"country": "Cyprus",
+"region": "Europe"
+},
+{
+"city": "Valletta",
+"country": "Malta",
+"region": "Europe"
+},
+{
+"city": "Sliema",
+"country": "Malta",
+"region": "Europe"
+},
+{
+"city": "Kyiv",
+"country": "Ukraine",
+"region": "Europe"
+},
+{
+"city": "Kharkiv",
+"country": "Ukraine",
+"region": "Europe"
+},
+{
+"city": "Odesa",
+"country": "Ukraine",
+"region": "Europe"
+},
+{
+"city": "Dnipro",
+"country": "Ukraine",
+"region": "Europe"
+},
+{
+"city": "Lviv",
+"country": "Ukraine",
+"region": "Europe"
+},
+{
+"city": "Zaporizhzhia",
+"country": "Ukraine",
+"region": "Europe"
+},
+{
+"city": "Vinnytsia",
+"country": "Ukraine",
+"region": "Europe"
+},
+{
+"city": "Chisinau",
+"country": "Moldova",
+"region": "Europe"
+},
+{
+"city": "Balti",
+"country": "Moldova",
+"region": "Europe"
+},
+{
+"city": "Minsk",
+"country": "Belarus",
+"region": "Europe"
+},
+{
+"city": "Gomel",
+"country": "Belarus",
+"region": "Europe"
+},
+{
+"city": "Moscow",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Saint Petersburg",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Novosibirsk",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Yekaterinburg",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Kazan",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Nizhny Novgorod",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Chelyabinsk",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Samara",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Rostov-on-Don",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Ufa",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Krasnoyarsk",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Vladivostok",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Sochi",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Volgograd",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Perm",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Voronezh",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Krasnodar",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Irkutsk",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Khabarovsk",
+"country": "Russia",
+"region": "Europe"
+},
+{
+"city": "Gibraltar",
+"country": "Gibraltar",
+"region": "Europe"
+},
+{
+"city": "Monaco",
+"country": "Monaco",
+"region": "Europe"
+},
+{
+"city": "Vaduz",
+"country": "Liechtenstein",
+"region": "Europe"
+},
+{
+"city": "Andorra la Vella",
+"country": "Andorra",
+"region": "Europe"
+},
+{
+"city": "San Marino",
+"country": "San Marino",
+"region": "Europe"
+},
+{
+"city": "Beijing",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Shanghai",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Guangzhou",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Shenzhen",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Chengdu",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Chongqing",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Tianjin",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Wuhan",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Xian",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Hangzhou",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Nanjing",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Suzhou",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Shenyang",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Qingdao",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Dalian",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Zhengzhou",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Jinan",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Changsha",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Kunming",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Xiamen",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Fuzhou",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Harbin",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Ningbo",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Hefei",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Wuxi",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Foshan",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Dongguan",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Wenzhou",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Shijiazhuang",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Taiyuan",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Nanning",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Guiyang",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Urumqi",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Lanzhou",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Haikou",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Sanya",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Zhuhai",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Changzhou",
+"country": "China",
+"region": "Asia"
+},
+{
+"city": "Hong Kong",
+"country": "Hong Kong",
+"region": "Asia"
+},
+{
+"city": "Kowloon",
+"country": "Hong Kong",
+"region": "Asia"
+},
+{
+"city": "Macau",
+"country": "Macau",
+"region": "Asia"
+},
+{
+"city": "Taipei",
+"country": "Taiwan",
+"region": "Asia"
+},
+{
+"city": "Kaohsiung",
+"country": "Taiwan",
+"region": "Asia"
+},
+{
+"city": "Taichung",
+"country": "Taiwan",
+"region": "Asia"
+},
+{
+"city": "Tainan",
+"country": "Taiwan",
+"region": "Asia"
+},
+{
+"city": "Tokyo",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Yokohama",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Osaka",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Nagoya",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Sapporo",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Fukuoka",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Kobe",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Kyoto",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Kawasaki",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Saitama",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Hiroshima",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Sendai",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Chiba",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Kitakyushu",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Sakai",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Niigata",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Hamamatsu",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Okayama",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Kumamoto",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Kanazawa",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Naha",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Nara",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Kagoshima",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Utsunomiya",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Nagano",
+"country": "Japan",
+"region": "Asia"
+},
+{
+"city": "Seoul",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Busan",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Incheon",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Daegu",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Daejeon",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Gwangju",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Suwon",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Ulsan",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Cheongju",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Jeonju",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Changwon",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Goyang",
+"country": "South Korea",
+"region": "Asia"
+},
+{
+"city": "Pyongyang",
+"country": "North Korea",
+"region": "Asia"
+},
+{
+"city": "Mumbai",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Delhi",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Bangalore",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Hyderabad",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Chennai",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Kolkata",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Ahmedabad",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Pune",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Surat",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Jaipur",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Lucknow",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Kanpur",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Nagpur",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Indore",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Thane",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Bhopal",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Visakhapatnam",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Patna",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Vadodara",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Ghaziabad",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Ludhiana",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Agra",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Nashik",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Faridabad",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Meerut",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Rajkot",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Varanasi",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Srinagar",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Amritsar",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Noida",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Gurgaon",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Coimbatore",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Kochi",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Chandigarh",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Guwahati",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Mysore",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Thiruvananthapuram",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Jamshedpur",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Ranchi",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Raipur",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Jodhpur",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Kota",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Gwalior",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Jabalpur",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Aurangabad",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Vijayawada",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Madurai",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Tiruchirappalli",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Bhubaneswar",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Dehradun",
+"country": "India",
+"region": "Asia"
+},
+{
+"city": "Karachi",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Lahore",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Islamabad",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Rawalpindi",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Faisalabad",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Multan",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Peshawar",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Quetta",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Sialkot",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Gujranwala",
+"country": "Pakistan",
+"region": "Asia"
+},
+{
+"city": "Dhaka",
+"country": "Bangladesh",
+"region": "Asia"
+},
+{
+"city": "Chittagong",
+"country": "Bangladesh",
+"region": "Asia"
+},
+{
+"city": "Khulna",
+"country": "Bangladesh",
+"region": "Asia"
+},
+{
+"city": "Sylhet",
+"country": "Bangladesh",
+"region": "Asia"
+},
+{
+"city": "Rajshahi",
+"country": "Bangladesh",
+"region": "Asia"
+},
+{
+"city": "Colombo",
+"country": "Sri Lanka",
+"region": "Asia"
+},
+{
+"city": "Kandy",
+"country": "Sri Lanka",
+"region": "Asia"
+},
+{
+"city": "Kathmandu",
+"country": "Nepal",
+"region": "Asia"
+},
+{
+"city": "Pokhara",
+"country": "Nepal",
+"region": "Asia"
+},
+{
+"city": "Singapore",
+"country": "Singapore",
+"region": "Asia"
+},
+{
+"city": "Kuala Lumpur",
+"country": "Malaysia",
+"region": "Asia"
+},
+{
+"city": "George Town",
+"country": "Malaysia",
+"region": "Asia"
+},
+{
+"city": "Johor Bahru",
+"country": "Malaysia",
+"region": "Asia"
+},
+{
+"city": "Ipoh",
+"country": "Malaysia",
+"region": "Asia"
+},
+{
+"city": "Kuching",
+"country": "Malaysia",
+"region": "Asia"
+},
+{
+"city": "Shah Alam",
+"country": "Malaysia",
+"region": "Asia"
+},
+{
+"city": "Petaling Jaya",
+"country": "Malaysia",
+"region": "Asia"
+},
+{
+"city": "Jakarta",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Surabaya",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Bandung",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Medan",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Semarang",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Makassar",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Denpasar",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Palembang",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Malang",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Yogyakarta",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Batam",
+"country": "Indonesia",
+"region": "Asia"
+},
+{
+"city": "Bangkok",
+"country": "Thailand",
+"region": "Asia"
+},
+{
+"city": "Chiang Mai",
+"country": "Thailand",
+"region": "Asia"
+},
+{
+"city": "Phuket",
+"country": "Thailand",
+"region": "Asia"
+},
+{
+"city": "Pattaya",
+"country": "Thailand",
+"region": "Asia"
+},
+{
+"city": "Nonthaburi",
+"country": "Thailand",
+"region": "Asia"
+},
+{
+"city": "Nakhon Ratchasima",
+"country": "Thailand",
+"region": "Asia"
+},
+{
+"city": "Hat Yai",
+"country": "Thailand",
+"region": "Asia"
+},
+{
+"city": "Hanoi",
+"country": "Vietnam",
+"region": "Asia"
+},
+{
+"city": "Ho Chi Minh City",
+"country": "Vietnam",
+"region": "Asia"
+},
+{
+"city": "Da Nang",
+"country": "Vietnam",
+"region": "Asia"
+},
+{
+"city": "Haiphong",
+"country": "Vietnam",
+"region": "Asia"
+},
+{
+"city": "Can Tho",
+"country": "Vietnam",
+"region": "Asia"
+},
+{
+"city": "Nha Trang",
+"country": "Vietnam",
+"region": "Asia"
+},
+{
+"city": "Hue",
+"country": "Vietnam",
+"region": "Asia"
+},
+{
+"city": "Bien Hoa",
+"country": "Vietnam",
+"region": "Asia"
+},
+{
+"city": "Manila",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Quezon City",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Davao City",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Cebu City",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Makati",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Zamboanga City",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Cagayan de Oro",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Iloilo City",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Bacolod",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Taguig",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Pasig",
+"country": "Philippines",
+"region": "Asia"
+},
+{
+"city": "Phnom Penh",
+"country": "Cambodia",
+"region": "Asia"
+},
+{
+"city": "Siem Reap",
+"country": "Cambodia",
+"region": "Asia"
+},
+{
+"city": "Battambang",
+"country": "Cambodia",
+"region": "Asia"
+},
+{
+"city": "Vientiane",
+"country": "Laos",
+"region": "Asia"
+},
+{
+"city": "Luang Prabang",
+"country": "Laos",
+"region": "Asia"
+},
+{
+"city": "Yangon",
+"country": "Myanmar",
+"region": "Asia"
+},
+{
+"city": "Mandalay",
+"country": "Myanmar",
+"region": "Asia"
+},
+{
+"city": "Naypyidaw",
+"country": "Myanmar",
+"region": "Asia"
+},
+{
+"city": "Ulaanbaatar",
+"country": "Mongolia",
+"region": "Asia"
+},
+{
+"city": "Erdenet",
+"country": "Mongolia",
+"region": "Asia"
+},
+{
+"city": "Almaty",
+"country": "Kazakhstan",
+"region": "Asia"
+},
+{
+"city": "Astana",
+"country": "Kazakhstan",
+"region": "Asia"
+},
+{
+"city": "Shymkent",
+"country": "Kazakhstan",
+"region": "Asia"
+},
+{
+"city": "Karaganda",
+"country": "Kazakhstan",
+"region": "Asia"
+},
+{
+"city": "Aktobe",
+"country": "Kazakhstan",
+"region": "Asia"
+},
+{
+"city": "Tashkent",
+"country": "Uzbekistan",
+"region": "Asia"
+},
+{
+"city": "Samarkand",
+"country": "Uzbekistan",
+"region": "Asia"
+},
+{
+"city": "Namangan",
+"country": "Uzbekistan",
+"region": "Asia"
+},
+{
+"city": "Baku",
+"country": "Azerbaijan",
+"region": "Asia"
+},
+{
+"city": "Ganja",
+"country": "Azerbaijan",
+"region": "Asia"
+},
+{
+"city": "Sumqayit",
+"country": "Azerbaijan",
+"region": "Asia"
+},
+{
+"city": "Tbilisi",
+"country": "Georgia",
+"region": "Asia"
+},
+{
+"city": "Batumi",
+"country": "Georgia",
+"region": "Asia"
+},
+{
+"city": "Rustavi",
+"country": "Georgia",
+"region": "Asia"
+},
+{
+"city": "Yerevan",
+"country": "Armenia",
+"region": "Asia"
+},
+{
+"city": "Gyumri",
+"country": "Armenia",
+"region": "Asia"
+},
+{
+"city": "Bishkek",
+"country": "Kyrgyzstan",
+"region": "Asia"
+},
+{
+"city": "Osh",
+"country": "Kyrgyzstan",
+"region": "Asia"
+},
+{
+"city": "Ashgabat",
+"country": "Turkmenistan",
+"region": "Asia"
+},
+{
+"city": "Dushanbe",
+"country": "Tajikistan",
+"region": "Asia"
+},
+{
+"city": "Bandar Seri Begawan",
+"country": "Brunei",
+"region": "Asia"
+},
+{
+"city": "Dubai",
+"country": "United Arab Emirates",
+"region": "Middle East"
+},
+{
+"city": "Abu Dhabi",
+"country": "United Arab Emirates",
+"region": "Middle East"
+},
+{
+"city": "Sharjah",
+"country": "United Arab Emirates",
+"region": "Middle East"
+},
+{
+"city": "Al Ain",
+"country": "United Arab Emirates",
+"region": "Middle East"
+},
+{
+"city": "Ajman",
+"country": "United Arab Emirates",
+"region": "Middle East"
+},
+{
+"city": "Ras al-Khaimah",
+"country": "United Arab Emirates",
+"region": "Middle East"
+},
+{
+"city": "Fujairah",
+"country": "United Arab Emirates",
+"region": "Middle East"
+},
+{
+"city": "Riyadh",
+"country": "Saudi Arabia",
+"region": "Middle East"
+},
+{
+"city": "Jeddah",
+"country": "Saudi Arabia",
+"region": "Middle East"
+},
+{
+"city": "Mecca",
+"country": "Saudi Arabia",
+"region": "Middle East"
+},
+{
+"city": "Medina",
+"country": "Saudi Arabia",
+"region": "Middle East"
+},
+{
+"city": "Dammam",
+"country": "Saudi Arabia",
+"region": "Middle East"
+},
+{
+"city": "Taif",
+"country": "Saudi Arabia",
+"region": "Middle East"
+},
+{
+"city": "Tabuk",
+"country": "Saudi Arabia",
+"region": "Middle East"
+},
+{
+"city": "Khobar",
+"country": "Saudi Arabia",
+"region": "Middle East"
+},
+{
+"city": "Doha",
+"country": "Qatar",
+"region": "Middle East"
+},
+{
+"city": "Al Rayyan",
+"country": "Qatar",
+"region": "Middle East"
+},
+{
+"city": "Kuwait City",
+"country": "Kuwait",
+"region": "Middle East"
+},
+{
+"city": "Manama",
+"country": "Bahrain",
+"region": "Middle East"
+},
+{
+"city": "Muscat",
+"country": "Oman",
+"region": "Middle East"
+},
+{
+"city": "Salalah",
+"country": "Oman",
+"region": "Middle East"
+},
+{
+"city": "Tel Aviv",
+"country": "Israel",
+"region": "Middle East"
+},
+{
+"city": "Jerusalem",
+"country": "Israel",
+"region": "Middle East"
+},
+{
+"city": "Haifa",
+"country": "Israel",
+"region": "Middle East"
+},
+{
+"city": "Istanbul",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Ankara",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Izmir",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Bursa",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Antalya",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Adana",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Gaziantep",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Konya",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Mersin",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Kayseri",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Eskisehir",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Samsun",
+"country": "Turkey",
+"region": "Middle East"
+},
+{
+"city": "Amman",
+"country": "Jordan",
+"region": "Middle East"
+},
+{
+"city": "Zarqa",
+"country": "Jordan",
+"region": "Middle East"
+},
+{
+"city": "Beirut",
+"country": "Lebanon",
+"region": "Middle East"
+},
+{
+"city": "Tripoli",
+"country": "Lebanon",
+"region": "Middle East"
+},
+{
+"city": "Baghdad",
+"country": "Iraq",
+"region": "Middle East"
+},
+{
+"city": "Basra",
+"country": "Iraq",
+"region": "Middle East"
+},
+{
+"city": "Erbil",
+"country": "Iraq",
+"region": "Middle East"
+},
+{
+"city": "Kirkuk",
+"country": "Iraq",
+"region": "Middle East"
+},
+{
+"city": "Najaf",
+"country": "Iraq",
+"region": "Middle East"
+},
+{
+"city": "Tehran",
+"country": "Iran",
+"region": "Middle East"
+},
+{
+"city": "Mashhad",
+"country": "Iran",
+"region": "Middle East"
+},
+{
+"city": "Isfahan",
+"country": "Iran",
+"region": "Middle East"
+},
+{
+"city": "Shiraz",
+"country": "Iran",
+"region": "Middle East"
+},
+{
+"city": "Tabriz",
+"country": "Iran",
+"region": "Middle East"
+},
+{
+"city": "Karaj",
+"country": "Iran",
+"region": "Middle East"
+},
+{
+"city": "Qom",
+"country": "Iran",
+"region": "Middle East"
+},
+{
+"city": "Ahvaz",
+"country": "Iran",
+"region": "Middle East"
+},
+{
+"city": "Sanaa",
+"country": "Yemen",
+"region": "Middle East"
+},
+{
+"city": "Aden",
+"country": "Yemen",
+"region": "Middle East"
+},
+{
+"city": "Damascus",
+"country": "Syria",
+"region": "Middle East"
+},
+{
+"city": "Aleppo",
+"country": "Syria",
+"region": "Middle East"
+},
+{
+"city": "Gaza",
+"country": "Palestine",
+"region": "Middle East"
+},
+{
+"city": "Ramallah",
+"country": "Palestine",
+"region": "Middle East"
+},
+{
+"city": "Johannesburg",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "Cape Town",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "Durban",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "Pretoria",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "Port Elizabeth",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "Bloemfontein",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "Rustenburg",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "Polokwane",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "East London",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "Pietermaritzburg",
+"country": "South Africa",
+"region": "Africa"
+},
+{
+"city": "Lagos",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Abuja",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Kano",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Ibadan",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Port Harcourt",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Benin City",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Kaduna",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Enugu",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Abeokuta",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Onitsha",
+"country": "Nigeria",
+"region": "Africa"
+},
+{
+"city": "Cairo",
+"country": "Egypt",
+"region": "Africa"
+},
+{
+"city": "Alexandria",
+"country": "Egypt",
+"region": "Africa"
+},
+{
+"city": "Giza",
+"country": "Egypt",
+"region": "Africa"
+},
+{
+"city": "Luxor",
+"country": "Egypt",
+"region": "Africa"
+},
+{
+"city": "Aswan",
+"country": "Egypt",
+"region": "Africa"
+},
+{
+"city": "Port Said",
+"country": "Egypt",
+"region": "Africa"
+},
+{
+"city": "Mansoura",
+"country": "Egypt",
+"region": "Africa"
+},
+{
+"city": "Nairobi",
+"country": "Kenya",
+"region": "Africa"
+},
+{
+"city": "Mombasa",
+"country": "Kenya",
+"region": "Africa"
+},
+{
+"city": "Kisumu",
+"country": "Kenya",
+"region": "Africa"
+},
+{
+"city": "Nakuru",
+"country": "Kenya",
+"region": "Africa"
+},
+{
+"city": "Eldoret",
+"country": "Kenya",
+"region": "Africa"
+},
+{
+"city": "Casablanca",
+"country": "Morocco",
+"region": "Africa"
+},
+{
+"city": "Rabat",
+"country": "Morocco",
+"region": "Africa"
+},
+{
+"city": "Marrakesh",
+"country": "Morocco",
+"region": "Africa"
+},
+{
+"city": "Fez",
+"country": "Morocco",
+"region": "Africa"
+},
+{
+"city": "Tangier",
+"country": "Morocco",
+"region": "Africa"
+},
+{
+"city": "Agadir",
+"country": "Morocco",
+"region": "Africa"
+},
+{
+"city": "Meknes",
+"country": "Morocco",
+"region": "Africa"
+},
+{
+"city": "Algiers",
+"country": "Algeria",
+"region": "Africa"
+},
+{
+"city": "Oran",
+"country": "Algeria",
+"region": "Africa"
+},
+{
+"city": "Constantine",
+"country": "Algeria",
+"region": "Africa"
+},
+{
+"city": "Annaba",
+"country": "Algeria",
+"region": "Africa"
+},
+{
+"city": "Tunis",
+"country": "Tunisia",
+"region": "Africa"
+},
+{
+"city": "Sfax",
+"country": "Tunisia",
+"region": "Africa"
+},
+{
+"city": "Sousse",
+"country": "Tunisia",
+"region": "Africa"
+},
+{
+"city": "Accra",
+"country": "Ghana",
+"region": "Africa"
+},
+{
+"city": "Kumasi",
+"country": "Ghana",
+"region": "Africa"
+},
+{
+"city": "Tamale",
+"country": "Ghana",
+"region": "Africa"
+},
+{
+"city": "Takoradi",
+"country": "Ghana",
+"region": "Africa"
+},
+{
+"city": "Addis Ababa",
+"country": "Ethiopia",
+"region": "Africa"
+},
+{
+"city": "Dire Dawa",
+"country": "Ethiopia",
+"region": "Africa"
+},
+{
+"city": "Dar es Salaam",
+"country": "Tanzania",
+"region": "Africa"
+},
+{
+"city": "Dodoma",
+"country": "Tanzania",
+"region": "Africa"
+},
+{
+"city": "Arusha",
+"country": "Tanzania",
+"region": "Africa"
+},
+{
+"city": "Mwanza",
+"country": "Tanzania",
+"region": "Africa"
+},
+{
+"city": "Kampala",
+"country": "Uganda",
+"region": "Africa"
+},
+{
+"city": "Luanda",
+"country": "Angola",
+"region": "Africa"
+},
+{
+"city": "Abidjan",
+"country": "Ivory Coast",
+"region": "Africa"
+},
+{
+"city": "Yamoussoukro",
+"country": "Ivory Coast",
+"region": "Africa"
+},
+{
+"city": "Dakar",
+"country": "Senegal",
+"region": "Africa"
+},
+{
+"city": "Douala",
+"country": "Cameroon",
+"region": "Africa"
+},
+{
+"city": "Yaounde",
+"country": "Cameroon",
+"region": "Africa"
+},
+{
+"city": "Lusaka",
+"country": "Zambia",
+"region": "Africa"
+},
+{
+"city": "Ndola",
+"country": "Zambia",
+"region": "Africa"
+},
+{
+"city": "Kitwe",
+"country": "Zambia",
+"region": "Africa"
+},
+{
+"city": "Harare",
+"country": "Zimbabwe",
+"region": "Africa"
+},
+{
+"city": "Bulawayo",
+"country": "Zimbabwe",
+"region": "Africa"
+},
+{
+"city": "Maputo",
+"country": "Mozambique",
+"region": "Africa"
+},
+{
+"city": "Nampula",
+"country": "Mozambique",
+"region": "Africa"
+},
+{
+"city": "Gaborone",
+"country": "Botswana",
+"region": "Africa"
+},
+{
+"city": "Windhoek",
+"country": "Namibia",
+"region": "Africa"
+},
+{
+"city": "Port Louis",
+"country": "Mauritius",
+"region": "Africa"
+},
+{
+"city": "Kigali",
+"country": "Rwanda",
+"region": "Africa"
+},
+{
+"city": "Tripoli",
+"country": "Libya",
+"region": "Africa"
+},
+{
+"city": "Benghazi",
+"country": "Libya",
+"region": "Africa"
+},
+{
+"city": "Khartoum",
+"country": "Sudan",
+"region": "Africa"
+},
+{
+"city": "Kinshasa",
+"country": "Democratic Republic of the Congo",
+"region": "Africa"
+},
+{
+"city": "Lubumbashi",
+"country": "Democratic Republic of the Congo",
+"region": "Africa"
+},
+{
+"city": "Sydney",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Melbourne",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Brisbane",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Perth",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Adelaide",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Gold Coast",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Canberra",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Newcastle",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Wollongong",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Hobart",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Geelong",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Townsville",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Cairns",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Darwin",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Toowoomba",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Ballarat",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Bendigo",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Sunshine Coast",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Launceston",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Mackay",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Rockhampton",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Wagga Wagga",
+"country": "Australia",
+"region": "Oceania"
+},
+{
+"city": "Auckland",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Wellington",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Christchurch",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Hamilton",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Tauranga",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Dunedin",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Palmerston North",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Napier",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Nelson",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Queenstown",
+"country": "New Zealand",
+"region": "Oceania"
+},
+{
+"city": "Suva",
+"country": "Fiji",
+"region": "Oceania"
+},
+{
+"city": "Nadi",
+"country": "Fiji",
+"region": "Oceania"
+},
+{
+"city": "Lautoka",
+"country": "Fiji",
+"region": "Oceania"
+},
+{
+"city": "Port Moresby",
+"country": "Papua New Guinea",
+"region": "Oceania"
+},
+{
+"city": "Lae",
+"country": "Papua New Guinea",
+"region": "Oceania"
+}
+]
+}
